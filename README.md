@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrankFoglia91
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Data Reporting
-- 💞️ I’m looking to collaborate on ml and dl projects
+- 💞️ I’m looking to collaborate on ML and DL projects
 - 📫 How to reach me : Linkedin > francesco fogliamanzillo 
 
 <!---
